@@ -19,3 +19,5 @@ Změna lokální 4.
 Změna lokální 5.
 Změna globální 4.
 ----------------
+
+Chtěná změna.
