@@ -17,3 +17,5 @@ Změna globální 3
 
 Změna lokální 4.
 Změna lokální 5.
+Změna globální 4.
+----------------
