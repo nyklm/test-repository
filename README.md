@@ -5,4 +5,5 @@ Změna lokální.
 Změna globální.
 ----------------
 
-Změna lokální 2.
+Změna lokální 2.x
+Změna globální 2.x
