@@ -2,3 +2,5 @@
 pokusný repozitář
 
 Změna lokální.
+Změna globální.
+----------------
