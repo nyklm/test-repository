@@ -12,3 +12,6 @@ Jedna lokální změna
 ----------------
 
 Změna lokální 3.
+Změna globální 3
+----------------
+
