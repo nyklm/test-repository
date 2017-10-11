@@ -21,3 +21,4 @@ Změna globální 4.
 ----------------
 
 Nechtěná změna 2
+Nechtěná změna 3
