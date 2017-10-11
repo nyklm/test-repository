@@ -15,3 +15,4 @@ Změna lokální 3.
 Změna globální 3
 ----------------
 
+Změna lokální 4.
